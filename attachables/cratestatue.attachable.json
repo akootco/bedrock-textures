@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:cratestatue",
+            "identifier": "geyser_custom:crate.st",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"

@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:foxn",
+            "identifier": "geyser_custom:foxncat",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"

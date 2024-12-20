@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:akoot4",
+            "identifier": "geyser_custom:akoot_4",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"

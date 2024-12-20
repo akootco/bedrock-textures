@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:lemon2",
+            "identifier": "geyser_custom:lemon_2",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"
