@@ -7,12 +7,12 @@
         "textures/icons/akoot"
       ]
     },
-    "akoot2": {
+    "akoot_2": {
       "textures": [
         "textures/icons/akoot2"
       ]
     },
-    "akoot3": {
+    "akoot_3": {
       "textures": [
         "textures/icons/akoot3"
       ]
@@ -47,7 +47,7 @@
         "textures/icons/crate"
       ]
     },
-    "foxn": {
+    "foxncat": {
       "textures": [
         "textures/icons/foxn"
       ]
@@ -62,12 +62,12 @@
         "textures/icons/ipa"
       ]
     },
-    "ipa2": {
+    "ipa_2": {
       "textures": [
         "textures/icons/ipa2"
       ]
     },
-    "ipa3": {
+    "ipa_3": {
       "textures": [
         "textures/icons/ipa3"
       ]
@@ -97,12 +97,12 @@
         "textures/icons/mahoose"
       ]
     },
-    "mahoose2": {
+    "mahoose_2": {
       "textures": [
         "textures/icons/mahoose2"
       ]
     },
-    "mahoose3": {
+    "mahoose_3": {
       "textures": [
         "textures/icons/mahoose3"
       ]
@@ -132,52 +132,52 @@
         "textures/icons/xan"
       ]
     },
-    "visc": {
+    "viscalis": {
       "textures": [
         "textures/icons/visc"
       ]
     },
-    "joe2": {
+    "joe_2": {
       "textures": [
         "textures/icons/joe2"
       ]
     },
-    "joe3": {
+    "joe_3": {
       "textures": [
         "textures/icons/joe3"
       ]
     },
-    "joe4": {
+    "joe_4": {
       "textures": [
         "textures/icons/joe4"
       ]
     },
-    "beet2": {
+    "beet_2": {
       "textures": [
         "textures/icons/beet2"
       ]
     },
-    "aedan2": {
+    "aedan_2": {
       "textures": [
         "textures/icons/aedan2"
       ]
     },
-    "jamie2": {
+    "jamie_2": {
       "textures": [
         "textures/icons/jamie2"
       ]
     },
-    "jamie3": {
+    "jamie_3": {
       "textures": [
         "textures/icons/jamie3"
       ]
     },
-    "jamie4": {
+    "jamie_4": {
       "textures": [
         "textures/icons/jamie4"
       ]
     },
-    "mahoose4": {
+    "mahoose_4": {
       "textures": [
         "textures/icons/mahoose4"
       ]
@@ -192,7 +192,7 @@
         "textures/icons/wookiee"
       ]
     },
-    "akoot4": {
+    "akoot_4": {
       "textures": [
         "textures/icons/akoot4"
       ]
@@ -207,7 +207,7 @@
         "textures/icons/nova"
       ]
     },
-    "fiveam": {
+    "500am": {
       "textures": [
         "textures/icons/fiveam"
       ]
@@ -267,12 +267,12 @@
         "textures/icons/peepo"
       ]
     },
-    "pb": {
+    "picturebox": {
       "textures": [
         "textures/icons/pb"
       ]
     },
-    "pb2": {
+    "picturebox_2": {
       "textures": [
         "textures/icons/pb2"
       ]
@@ -307,17 +307,17 @@
         "textures/icons/smoke"
       ]
     },
-    "eddy": {
+    "ecstardust": {
       "textures": [
         "textures/icons/eddy"
       ]
     },
-    "anna": {
+    "lucidauora": {
       "textures": [
         "textures/icons/anna"
       ]
     },
-    "ducky": {
+    "madamducky": {
       "textures": [
         "textures/icons/ducky"
       ]
@@ -362,17 +362,17 @@
         "textures/icons/orlando"
       ]
     },
-    "bugbo2": {
+    "bugbo_2": {
       "textures": [
         "textures/icons/bugbo2"
       ]
     },
-    "visc2": {
+    "viscalis_2": {
       "textures": [
         "textures/icons/visc2"
       ]
     },
-    "rat2": {
+    "rat_2": {
       "textures": [
         "textures/icons/rat2"
       ]
@@ -407,12 +407,12 @@
         "textures/icons/sloth"
       ]
     },
-    "lemon2": {
+    "lemon_2": {
       "textures": [
         "textures/icons/lemon2"
       ]
     },
-    "sego2": {
+    "sego_2": {
       "textures": [
         "textures/icons/sego2"
       ]
@@ -423,7 +423,7 @@
       ]
     }
     ,
-    "zapper2": {
+    "zapper_2": {
       "textures": [
         "textures/icons/zapper2"
       ]
@@ -474,12 +474,12 @@
         "textures/icons/pixel"
       ]
     },
-    "pixel2": {
+    "pixel_2": {
       "textures": [
         "textures/icons/pixel2"
       ]
     },
-    "mango": {
+    "mangooobee": {
       "textures": [
         "textures/icons/mango"
       ]
