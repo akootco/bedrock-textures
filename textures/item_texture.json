@@ -22,11 +22,6 @@
         "textures/icons/bee"
       ]
     },
-    "beet": {
-      "textures": [
-        "textures/icons/beet"
-      ]
-    },
     "aedan": {
       "textures": [
         "textures/icons/aedan"
@@ -70,11 +65,6 @@
     "ipa_3": {
       "textures": [
         "textures/icons/ipa3"
-      ]
-    },
-    "jamie": {
-      "textures": [
-        "textures/icons/jamie"
       ]
     },
     "joe": {
@@ -152,39 +142,14 @@
         "textures/icons/joe4"
       ]
     },
-    "beet_2": {
-      "textures": [
-        "textures/icons/beet2"
-      ]
-    },
     "aedan_2": {
       "textures": [
         "textures/icons/aedan2"
       ]
     },
-    "jamie_2": {
-      "textures": [
-        "textures/icons/jamie2"
-      ]
-    },
-    "jamie_3": {
-      "textures": [
-        "textures/icons/jamie3"
-      ]
-    },
-    "jamie_4": {
-      "textures": [
-        "textures/icons/jamie4"
-      ]
-    },
     "mahoose_4": {
       "textures": [
         "textures/icons/mahoose4"
-      ]
-    },
-    "otr": {
-      "textures": [
-        "textures/icons/otr"
       ]
     },
     "wookiee": {
@@ -195,11 +160,6 @@
     "akoot_4": {
       "textures": [
         "textures/icons/akoot4"
-      ]
-    },
-    "seal": {
-      "textures": [
-        "textures/icons/seal"
       ]
     },
     "nova": {
@@ -222,21 +182,6 @@
         "textures/icons/pirk"
       ]
     },
-    "echo": {
-      "textures": [
-        "textures/icons/echo"
-      ]
-    },
-    "lemon": {
-      "textures": [
-        "textures/icons/lemon"
-      ]
-    },
-    "soggy": {
-      "textures": [
-        "textures/icons/soggy"
-      ]
-    },
     "aram": {
       "textures": [
         "textures/icons/aram"
@@ -245,16 +190,6 @@
     "tresure": {
       "textures": [
         "textures/icons/tresure"
-      ]
-    },
-    "serp": {
-      "textures": [
-        "textures/icons/serp"
-      ]
-    },
-    "yfd": {
-      "textures": [
-        "textures/icons/yfd"
       ]
     },
     "peep": {
@@ -267,21 +202,6 @@
         "textures/icons/peepo"
       ]
     },
-    "picturebox": {
-      "textures": [
-        "textures/icons/pb"
-      ]
-    },
-    "picturebox_2": {
-      "textures": [
-        "textures/icons/pb2"
-      ]
-    },
-    "revan": {
-      "textures": [
-        "textures/icons/revan"
-      ]
-    },
     "noisy": {
       "textures": [
         "textures/icons/noisy"
@@ -292,29 +212,9 @@
         "textures/icons/breakn"
       ]
     },
-    "kirill": {
-      "textures": [
-        "textures/icons/kirill"
-      ]
-    },
-    "naruto": {
-      "textures": [
-        "textures/icons/naruto"
-      ]
-    },
     "smoke": {
       "textures": [
         "textures/icons/smoke"
-      ]
-    },
-    "ecstardust": {
-      "textures": [
-        "textures/icons/eddy"
-      ]
-    },
-    "lucidauora": {
-      "textures": [
-        "textures/icons/anna"
       ]
     },
     "madamducky": {
@@ -322,49 +222,9 @@
         "textures/icons/ducky"
       ]
     },
-    "mysticshark": {
-      "textures": [
-        "textures/icons/mysticshark"
-      ]
-    },
-    "bugbo": {
-      "textures": [
-        "textures/icons/bugbo"
-      ]
-    },
-    "jimbo": {
-      "textures": [
-        "textures/icons/jimbo"
-      ]
-    },
-    "akrider": {
-      "textures": [
-        "textures/icons/akrider"
-      ]
-    },
-    "dqce": {
-      "textures": [
-        "textures/icons/dqce"
-      ]
-    },
-    "ammy": {
-      "textures": [
-        "textures/icons/ammy"
-      ]
-    },
     "mayzface": {
       "textures": [
         "textures/icons/mayzface"
-      ]
-    },
-    "orlando": {
-      "textures": [
-        "textures/icons/orlando"
-      ]
-    },
-    "bugbo_2": {
-      "textures": [
-        "textures/icons/bugbo2"
       ]
     },
     "viscalis_2": {
@@ -375,26 +235,6 @@
     "rat_2": {
       "textures": [
         "textures/icons/rat2"
-      ]
-    },
-    "dragon": {
-      "textures": [
-        "textures/icons/dragon"
-      ]
-    },
-    "blackfez": {
-      "textures": [
-        "textures/icons/blackfez"
-      ]
-    },
-    "awezmtv": {
-      "textures": [
-        "textures/icons/awezmtv"
-      ]
-    } ,
-    "josephism": {
-      "textures": [
-        "textures/icons/josephism"
       ]
     },
     "zapper": {
@@ -439,49 +279,9 @@
         "textures/icons/van"
       ]
     },
-    "duckery": {
-      "textures": [
-        "textures/icons/duckery"
-      ]
-    },
-    "witch": {
-      "textures": [
-        "textures/icons/witch"
-      ]
-    },
-    "salt": {
-      "textures": [
-        "textures/icons/salt"
-      ]
-    },
     "sailor": {
       "textures": [
         "textures/icons/sailor"
-      ]
-    },
-    "axo": {
-      "textures": [
-        "textures/icons/axo"
-      ]
-    },
-    "mnemonist": {
-      "textures": [
-        "textures/icons/mnemonist"
-      ]
-    },
-    "pixel": {
-      "textures": [
-        "textures/icons/pixel"
-      ]
-    },
-    "pixel_2": {
-      "textures": [
-        "textures/icons/pixel2"
-      ]
-    },
-    "mangooobee": {
-      "textures": [
-        "textures/icons/mango"
       ]
     },
     "party_hat": {

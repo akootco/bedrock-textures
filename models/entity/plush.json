@@ -12,23 +12,23 @@
 			},
 			"bones": [
 				{
-					"name": "geyser_custom",
+					"name": "plushies",
 					"pivot": [0, 8, 0],
 					"binding": "q.item_slot_to_bone_name(c.item_slot)"
 				},
 				{
-					"name": "geyser_custom_x",
-					"parent": "geyser_custom",
+					"name": "plushies_x",
+					"parent": "plushies",
 					"pivot": [0, 8, 0]
 				},
 				{
-					"name": "geyser_custom_y",
-					"parent": "geyser_custom_x",
+					"name": "plushies_y",
+					"parent": "plushies_x",
 					"pivot": [0, 8, 0]
 				},
 				{
-					"name": "geyser_custom_z",
-					"parent": "geyser_custom_y",
+					"name": "plushies_z",
+					"parent": "plushies_y",
 					"pivot": [0, 8, 0],
 					"cubes": [
 						{
@@ -131,7 +131,7 @@
 				},
 				{
 					"name": "rot_1",
-					"parent": "geyser_custom_z",
+					"parent": "plushies_z",
 					"pivot": [4.72, 3.87, -0.975],
 					"rotation": [0, 0, -45],
 					"cubes": [
@@ -151,7 +151,7 @@
 				},
 				{
 					"name": "rot_2",
-					"parent": "geyser_custom_z",
+					"parent": "plushies_z",
 					"pivot": [4.62, 3.87, -0.875],
 					"rotation": [0, 0, -45],
 					"cubes": [
@@ -171,7 +171,7 @@
 				},
 				{
 					"name": "rot_3",
-					"parent": "geyser_custom_z",
+					"parent": "plushies_z",
 					"pivot": [-3.505, 2.665, -0.84],
 					"rotation": [0, 0, 45],
 					"cubes": [
@@ -191,7 +191,7 @@
 				},
 				{
 					"name": "rot_4",
-					"parent": "geyser_custom_z",
+					"parent": "plushies_z",
 					"pivot": [-3.555, 2.815, -0.75],
 					"rotation": [0, 0, 45],
 					"cubes": [

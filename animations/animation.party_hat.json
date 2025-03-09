@@ -4,7 +4,7 @@
         "animation.party_hat.thirdperson_main_hand": {
             "loop": true,
             "bones": {
-                "geyser_custom": {
+                "plushies": {
                     "rotation": [
                         90,
                         0,
@@ -21,7 +21,7 @@
         "animation.party_hat.thirdperson_off_hand": {
             "loop": true,
             "bones": {
-                "geyser_custom": {
+                "plushies": {
                     "rotation": [
                         90,
                         0,
@@ -38,7 +38,7 @@
         "animation.party_hat.head": {
             "loop": true,
             "bones": {
-                "geyser_custom_x": {
+                "plushies_x": {
                     "rotation": [
                         -6.33,
                         0,
@@ -55,21 +55,21 @@
                         0.67626875
                     ]
                 },
-                "geyser_custom_y": {
+                "plushies_y": {
                     "rotation": [
                         0,
                         2.49,
                         0
                     ]
                 },
-                "geyser_custom_z": {
+                "plushies_z": {
                     "rotation": [
                         0,
                         0,
                         -8.94
                     ]
                 },
-                "geyser_custom": {
+                "plushies": {
                     "position": [
                         0,
                         19.9,
@@ -81,7 +81,7 @@
         "animation.party_hat.firstperson_main_hand": {
             "loop": true,
             "bones": {
-                "geyser_custom": {
+                "plushies": {
                     "rotation": [
                         90,
                         60,
@@ -94,7 +94,7 @@
                     ],
                     "scale": 1.5
                 },
-                "geyser_custom_x": {
+                "plushies_x": {
                     "rotation": [
                         0.1,
                         0.1,
@@ -106,7 +106,7 @@
         "animation.party_hat.firstperson_off_hand": {
             "loop": true,
             "bones": {
-                "geyser_custom": {
+                "plushies": {
                     "rotation": [
                         90,
                         60,
@@ -119,7 +119,7 @@
                     ],
                     "scale": 1.5
                 },
-                "geyser_custom_x": {
+                "plushies_x": {
                     "rotation": [
                         0.1,
                         0.1,

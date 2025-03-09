@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:neoma.st",
+            "identifier": "plushies:neoma.st",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"
@@ -47,7 +47,7 @@
                 "thirdperson_head": "animation.plush.head",
                 "firstperson_main_hand": "animation.plush.firstperson_main_hand",
                 "firstperson_off_hand": "animation.plush.firstperson_off_hand",
-                "firstperson_head": "animation.geyser_custom.disable"
+                "firstperson_head": "animation.plushies.disable"
             },
             "render_controllers": [
                 "controller.render.item_default"
