@@ -16,7 +16,7 @@
             },
             "bones": [
                 {
-                    "name": "plushies",
+                    "name": "geyser_custom",
                     "binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
                     "pivot": [
                         0,
@@ -25,8 +25,8 @@
                     ]
                 },
                 {
-                    "name": "plushies_x",
-                    "parent": "plushies",
+                    "name": "geyser_custom_x",
+                    "parent": "geyser_custom",
                     "pivot": [
                         0,
                         8,
@@ -34,8 +34,8 @@
                     ]
                 },
                 {
-                    "name": "plushies_y",
-                    "parent": "plushies_x",
+                    "name": "geyser_custom_y",
+                    "parent": "geyser_custom_x",
                     "pivot": [
                         0,
                         8,
@@ -43,8 +43,8 @@
                     ]
                 },
                 {
-                    "name": "plushies_z",
-                    "parent": "plushies_y",
+                    "name": "geyser_custom_z",
+                    "parent": "geyser_custom_y",
                     "pivot": [
                         0,
                         8,
@@ -942,7 +942,7 @@
                     ]
                 },
                 {
-                    "parent": "plushies_z",
+                    "parent": "geyser_custom_z",
                     "pivot": [
                         -0.6161,
                         12,
@@ -1037,7 +1037,7 @@
                     "name": "rot_1"
                 },
                 {
-                    "parent": "plushies_z",
+                    "parent": "geyser_custom_z",
                     "pivot": [
                         -0.6161,
                         12,
