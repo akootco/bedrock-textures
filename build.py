@@ -13,7 +13,7 @@ data['modules'][0]['uuid'] = str(uuid.uuid4())
 with open('manifest.json', 'w') as file:
     json.dump(data, file, indent=2)
 
-# create and replace item_textures.json
+# create and replace item_texture.json
 def save_data(data, output_file):
     if os.path.exists(output_file):
         os.remove(output_file)
@@ -36,7 +36,7 @@ combined_data = {
     "texture_data": combined_items
 }
 
-save_data(combined_data, 'textures/item_textures.json')
+save_data(combined_data, 'textures/item_texture.json')
 
 # zip everything
 def zip_directory(src_dir, zip_name, exclude_folders=[], exclude_files=[]):
