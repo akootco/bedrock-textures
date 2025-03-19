@@ -8,7 +8,7 @@
                 "enchanted": "entity_alphatest_one_sided"
             },
             "textures": {
-                "default": "textures/wookiee",
+                "default": "textures/plushies/wookiee",
                 "enchanted": "textures/misc/enchanted_item_glint"
             },
             "geometry": {

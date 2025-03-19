@@ -2,17 +2,29 @@
   "format_version": 2,
   "header": {
     "description": "Plushies!",
-    "name": "§3Akoot & Co",
-    "uuid": "7ab04a83-0e24-4f2a-9c0e-3b9b277ea4c6",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 18, 3]
+    "name": "Akoot & Co",
+    "uuid": "1ca4501c-2a78-484c-aeb2-da147b127df1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      3
+    ]
   },
   "modules": [
     {
       "description": "Plushies!",
       "type": "resources",
-      "uuid": "b703cf1c-1bc5-4139-a1b1-eec5b310af11",
-      "version": [1, 0, 0]
+      "uuid": "67694145-6507-48f5-9009-16e4459965b4",
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
   ]
 }

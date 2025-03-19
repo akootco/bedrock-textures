@@ -8,7 +8,7 @@
                 "enchanted": "entity_alphatest_one_sided"
             },
             "textures": {
-                "default": "textures/boba",
+                "default": "textures/plushies/boba",
                 "enchanted": "textures/misc/enchanted_item_glint"
             },
             "geometry": {
