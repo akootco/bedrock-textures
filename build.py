@@ -2,6 +2,7 @@ import json
 import uuid
 import os
 import zipfile
+import requests
 
 with open('manifest.json', 'r') as file:
     data = json.load(file)
@@ -37,6 +38,13 @@ combined_data = {
 }
 
 save_data(combined_data, 'textures/item_texture.json')
+
+# get server icon
+def get_icon():
+    with open("pack_icon.png", "wb") as f:
+        f.write(requests.get(f"https://api.mcstatus.io/v2/icon/akoot.co").content)
+
+get_icon()
 
 # zip everything
 def zip_directory(src_dir, zip_name, exclude_folders=[], exclude_files=[]):
