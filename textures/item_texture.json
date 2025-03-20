@@ -907,6 +907,46 @@
         "textures/food/zucchini_bread"
       ]
     },
+    "chicken_pot_pie": {
+      "textures": [
+        "textures/food/chicken_pot_pie"
+      ]
+    },
+    "golden_apple_pie": {
+      "textures": [
+        "textures/food/golden_apple_pie"
+      ]
+    },
+    "meat_pie": {
+      "textures": [
+        "textures/food/meat_pie"
+      ]
+    },
+    "peach": {
+      "textures": [
+        "textures/food/peach"
+      ]
+    },
+    "apple_pie": {
+      "textures": [
+        "textures/food/apple_pie"
+      ]
+    },
+    "blueberry_pie": {
+      "textures": [
+        "textures/food/blueberry_pie"
+      ]
+    },
+    "cherry_pie": {
+      "textures": [
+        "textures/food/cherry_pie"
+      ]
+    },
+    "strawberry_pie": {
+      "textures": [
+        "textures/food/strawberry_pie"
+      ]
+    },
     "book.1": {
       "textures": [
         "textures/books/1"

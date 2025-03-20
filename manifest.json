@@ -3,7 +3,7 @@
   "header": {
     "description": "Plushies!",
     "name": "Akoot & Co",
-    "uuid": "b83359af-5869-400c-aef4-762aedcb18ac",
+    "uuid": "f92e00ff-c0f7-44cf-ae48-8371f2bc325f",
     "version": [
       1,
       0,
@@ -19,7 +19,7 @@
     {
       "description": "Plushies!",
       "type": "resources",
-      "uuid": "c1e46628-b90c-45ec-b381-57dc2f861abf",
+      "uuid": "6d775dd4-c1a5-4017-be3c-87d2dfcf7a06",
       "version": [
         1,
         0,
