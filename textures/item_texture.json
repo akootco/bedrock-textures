@@ -1311,6 +1311,11 @@
       "textures": [
         "textures/items/icons/party_hat"
       ]
+    },
+    "le_poisson_steve": {
+      "textures": [
+        "textures/items/icons/le_poisson_steve"
+      ]
     }
   }
 }
