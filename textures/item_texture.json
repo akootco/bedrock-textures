@@ -1316,6 +1316,16 @@
       "textures": [
         "textures/items/icons/le_poisson_steve"
       ]
+    },
+    "akoot_sword": {
+      "textures": [
+        "textures/items/icons/akoot_sword"
+      ]
+    },
+    "akoot_sword_rgb": {
+      "textures": [
+        "textures/items/icons/akoot_sword"
+      ]
     }
   }
 }

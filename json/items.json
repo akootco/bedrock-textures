@@ -73,6 +73,8 @@
     "book.71": { "textures": ["textures/books/71"] },
     "book.72": { "textures": ["textures/books/72"] },
     "party_hat": { "textures": ["textures/items/icons/party_hat"] },
-    "le_poisson_steve": { "textures": ["textures/items/icons/le_poisson_steve"] }
+    "le_poisson_steve": { "textures": ["textures/items/icons/le_poisson_steve"] },
+    "akoot_sword": { "textures": ["textures/items/icons/akoot_sword"] },
+    "akoot_sword_rgb": { "textures": ["textures/items/icons/akoot_sword"] }
   }
 }
