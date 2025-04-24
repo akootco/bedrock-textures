@@ -4,6 +4,22 @@
     "plushies:le_poisson_steve": {
       "category": "record", "max_distance":  64.0,
       "sounds": [{"name": "sounds/le_poisson_steve"}]
+    },
+    "plushies:kahoot": {
+      "category": "record", "max_distance":  64.0,
+      "sounds": [{"name": "sounds/kahoot"}]
+    },
+    "plushies:niamos": {
+      "category": "record", "max_distance":  64.0,
+      "sounds": [{"name": "sounds/niamos"}]
+    },
+    "plushies:shrimp": {
+      "category": "record", "max_distance":  64.0,
+      "sounds": [{"name": "sounds/shrimp"}]
+    },
+    "plushies:sneezy": {
+      "category": "record", "max_distance":  64.0,
+      "sounds": [{"name": "sounds/sneezy"}]
     }
   }
 }

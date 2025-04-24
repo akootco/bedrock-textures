@@ -75,6 +75,10 @@
     "party_hat": { "textures": ["textures/items/icons/party_hat"] },
     "le_poisson_steve": { "textures": ["textures/items/icons/le_poisson_steve"] },
     "akoot_sword": { "textures": ["textures/items/icons/akoot_sword"] },
-    "akoot_sword_rgb": { "textures": ["textures/items/icons/akoot_sword"] }
+    "akoot_sword_rgb": { "textures": ["textures/items/icons/akoot_sword"] },
+    "sneezy": { "textures": ["textures/items/icons/sneezy"] },
+    "niamos": { "textures": ["textures/items/icons/niamos"] },
+    "shrimp": { "textures": ["textures/items/icons/shrimp"] },
+    "kahoot": { "textures": ["textures/items/icons/kahoot"] }
   }
 }

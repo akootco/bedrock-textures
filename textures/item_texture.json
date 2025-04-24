@@ -1326,6 +1326,26 @@
       "textures": [
         "textures/items/icons/akoot_sword"
       ]
+    },
+    "sneezy": {
+      "textures": [
+        "textures/items/icons/sneezy"
+      ]
+    },
+    "niamos": {
+      "textures": [
+        "textures/items/icons/niamos"
+      ]
+    },
+    "shrimp": {
+      "textures": [
+        "textures/items/icons/shrimp"
+      ]
+    },
+    "kahoot": {
+      "textures": [
+        "textures/items/icons/kahoot"
+      ]
     }
   }
 }
