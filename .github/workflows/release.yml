@@ -1,0 +1,55 @@
+name: Create release
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: resource pack release
+    runs-on: ubuntu-22.04
+    # only create a release if the commit message contains '!zip'
+    if: contains(github.event.head_commit.message, '!zip')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run Python script
+        run: |
+          python build.py
+
+      - name: Create zip archive
+        run: |
+          zip -r bedrock.zip . -x ".*" "build.py" "changes.md" "json/*"
+
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          export TZ="America/Los_Angeles"
+          TAG=$(date +'%y-%m-%d_%H-%M')
+          HASH=$(shasum -a 1 bedrock.zip | awk '{ print $1 }')
+          
+          echo -e "hash: \`$HASH\`\n$(cat changes.md)" > notes.md
+          
+          # Create the release
+          gh release create "$TAG" \
+            --repo="$GITHUB_REPOSITORY" \
+            --title="Bedrock pack" \
+            --notes-file notes.md \
+            bedrock.zip
