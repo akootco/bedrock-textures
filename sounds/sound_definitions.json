@@ -6,7 +6,8 @@
       "max_distance": 64.0,
       "sounds": [
         {
-          "name": "sounds/kahoot"
+          "name": "sounds/kahoot",
+          "stream": true
         }
       ]
     },
@@ -15,7 +16,8 @@
       "max_distance": 64.0,
       "sounds": [
         {
-          "name": "sounds/le_poisson_steve"
+          "name": "sounds/le_poisson_steve",
+          "stream": true
         }
       ]
     },
@@ -24,7 +26,8 @@
       "max_distance": 64.0,
       "sounds": [
         {
-          "name": "sounds/niamos"
+          "name": "sounds/niamos",
+          "stream": true
         }
       ]
     },
@@ -33,7 +36,8 @@
       "max_distance": 64.0,
       "sounds": [
         {
-          "name": "sounds/shrimp"
+          "name": "sounds/shrimp",
+          "stream": true
         }
       ]
     },
@@ -42,7 +46,8 @@
       "max_distance": 64.0,
       "sounds": [
         {
-          "name": "sounds/sneezy"
+          "name": "sounds/sneezy",
+          "stream": true
         }
       ]
     }

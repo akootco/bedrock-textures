@@ -26,7 +26,10 @@ def generate_sound_definitions(folder, output_file):
         f"plushies:{os.path.splitext(f)[0]}": {
             "category": "record",
             "max_distance": 64.0,
-            "sounds": [{"name": f"sounds/{os.path.splitext(f)[0]}"}]
+            "sounds": [{
+                "name": f"sounds/{os.path.splitext(f)[0]}",
+                "stream": True
+            }]
         }
         for f in os.listdir(folder)
         if f.endswith('.ogg')
