@@ -21,16 +21,6 @@
         }
       ]
     },
-    "plushies:niamos": {
-      "category": "record",
-      "max_distance": 64.0,
-      "sounds": [
-        {
-          "name": "sounds/niamos",
-          "stream": true
-        }
-      ]
-    },
     "plushies:shrimp": {
       "category": "record",
       "max_distance": 64.0,

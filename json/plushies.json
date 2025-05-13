@@ -62,6 +62,9 @@
     "ecstardust": {"textures": ["textures/plushies/icons/ecstardust"]},
     "lamb": {"textures": ["textures/plushies/icons/lamb"]},
     "finalmilwaukee": {"textures": ["textures/plushies/icons/finalmilwaukee"]},
-    "gildedfolium": {"textures": ["textures/plushies/icons/gildedfolium"]}
+    "gildedfolium": {"textures": ["textures/plushies/icons/gildedfolium"]},
+    "muffin": {"textures": ["textures/plushies/icons/muffin"]},
+    "zapper": {"textures": ["textures/plushies/icons/zapper"]},
+    "zapper_2": {"textures": ["textures/plushies/icons/zapper2"]}
   }
 }
