@@ -332,6 +332,11 @@
         "textures/plushies/icons/zapper2"
       ]
     },
+    "yummie": {
+      "textures": [
+        "textures/plushies/icons/yummie"
+      ]
+    },
     "almonds": {
       "textures": [
         "textures/food/almonds"

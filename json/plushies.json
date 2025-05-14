@@ -65,6 +65,7 @@
     "gildedfolium": {"textures": ["textures/plushies/icons/gildedfolium"]},
     "muffin": {"textures": ["textures/plushies/icons/muffin"]},
     "zapper": {"textures": ["textures/plushies/icons/zapper"]},
-    "zapper_2": {"textures": ["textures/plushies/icons/zapper2"]}
+    "zapper_2": {"textures": ["textures/plushies/icons/zapper2"]},
+    "yummie": {"textures": ["textures/plushies/icons/yummie"]}
   }
 }
