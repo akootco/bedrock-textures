@@ -58,7 +58,6 @@
     "rat_3": {"textures": ["textures/plushies/icons/rat3"]},
     "tundradwelling": {"textures": ["textures/plushies/icons/tundradwelling"]},
     "kirbo": {"textures": ["textures/plushies/icons/kirbo"]},
-    "noah": {"textures": ["textures/plushies/icons/noah"]},
     "ecstardust": {"textures": ["textures/plushies/icons/ecstardust"]},
     "lamb": {"textures": ["textures/plushies/icons/lamb"]},
     "finalmilwaukee": {"textures": ["textures/plushies/icons/finalmilwaukee"]},
@@ -66,6 +65,8 @@
     "muffin": {"textures": ["textures/plushies/icons/muffin"]},
     "zapper": {"textures": ["textures/plushies/icons/zapper"]},
     "zapper_2": {"textures": ["textures/plushies/icons/zapper2"]},
-    "yummie": {"textures": ["textures/plushies/icons/yummie"]}
+    "yummie": {"textures": ["textures/plushies/icons/yummie"]},
+    "heytiredimdad": {"textures": ["textures/plushies/icons/dad"]},
+    "shadow": {"textures": ["textures/plushies/icons/shadow"]}
   }
 }

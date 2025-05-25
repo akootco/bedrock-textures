@@ -292,11 +292,6 @@
         "textures/plushies/icons/kirbo"
       ]
     },
-    "noah": {
-      "textures": [
-        "textures/plushies/icons/noah"
-      ]
-    },
     "ecstardust": {
       "textures": [
         "textures/plushies/icons/ecstardust"
@@ -335,6 +330,16 @@
     "yummie": {
       "textures": [
         "textures/plushies/icons/yummie"
+      ]
+    },
+    "heytiredimdad": {
+      "textures": [
+        "textures/plushies/icons/dad"
+      ]
+    },
+    "shadow": {
+      "textures": [
+        "textures/plushies/icons/shadow"
       ]
     },
     "almonds": {

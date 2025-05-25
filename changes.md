@@ -2,4 +2,5 @@
 ### Bedrock 1.21.4
 
 ---
-- YummieMeow plushie
+- Heytiredimdad plushie
+- shadowmanu8 plushie
