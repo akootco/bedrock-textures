@@ -1,6 +1,16 @@
 {
   "format_version": "1.14.0",
   "sound_definitions": {
+    "plushies:jp9": {
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/jp9",
+          "stream": true
+        }
+      ]
+    },
     "plushies:kahoot": {
       "category": "record",
       "max_distance": 64.0,
@@ -21,6 +31,16 @@
         }
       ]
     },
+    "plushies:limerence": {
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/limerence",
+          "stream": true
+        }
+      ]
+    },
     "plushies:shrimp": {
       "category": "record",
       "max_distance": 64.0,
@@ -37,6 +57,16 @@
       "sounds": [
         {
           "name": "sounds/sneezy",
+          "stream": true
+        }
+      ]
+    },
+    "plushies:well": {
+      "category": "record",
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/well",
           "stream": true
         }
       ]

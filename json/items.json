@@ -78,6 +78,9 @@
     "akoot_sword_rgb": { "textures": ["textures/items/icons/akoot_sword"] },
     "sneezy": { "textures": ["textures/items/icons/sneezy"] },
     "shrimp": { "textures": ["textures/items/icons/shrimp"] },
-    "kahoot": { "textures": ["textures/items/icons/kahoot"] }
+    "kahoot": { "textures": ["textures/items/icons/kahoot"] },
+    "jp9": { "textures": ["textures/items/icons/jp9"] },
+    "well": { "textures": ["textures/items/icons/well"] },
+    "limerence": { "textures": ["textures/items/icons/limerence"] }
   }
 }

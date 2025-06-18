@@ -1366,6 +1366,21 @@
       "textures": [
         "textures/items/icons/kahoot"
       ]
+    },
+    "jp9": {
+      "textures": [
+        "textures/items/icons/jp9"
+      ]
+    },
+    "well": {
+      "textures": [
+        "textures/items/icons/well"
+      ]
+    },
+    "limerence": {
+      "textures": [
+        "textures/items/icons/limerence"
+      ]
     }
   }
 }
