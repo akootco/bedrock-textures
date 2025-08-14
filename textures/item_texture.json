@@ -342,6 +342,16 @@
         "textures/plushies/icons/shadow"
       ]
     },
+    "heytiredimdad_2": {
+      "textures": [
+        "textures/plushies/icons/dad2"
+      ]
+    },
+    "heytiredimda_3": {
+      "textures": [
+        "textures/plushies/icons/dad3"
+      ]
+    },
     "almonds": {
       "textures": [
         "textures/food/almonds"

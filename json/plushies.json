@@ -67,6 +67,8 @@
     "zapper_2": {"textures": ["textures/plushies/icons/zapper2"]},
     "yummie": {"textures": ["textures/plushies/icons/yummie"]},
     "heytiredimdad": {"textures": ["textures/plushies/icons/dad"]},
-    "shadow": {"textures": ["textures/plushies/icons/shadow"]}
+    "shadow": {"textures": ["textures/plushies/icons/shadow"]},
+    "heytiredimdad_2": {"textures": ["textures/plushies/icons/dad2"]},
+    "heytiredimda_3": {"textures": ["textures/plushies/icons/dad3"]}
   }
 }
