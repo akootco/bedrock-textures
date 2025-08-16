@@ -69,6 +69,10 @@
     "heytiredimdad": {"textures": ["textures/plushies/icons/dad"]},
     "shadow": {"textures": ["textures/plushies/icons/shadow"]},
     "heytiredimdad_2": {"textures": ["textures/plushies/icons/dad2"]},
-    "heytiredimda_3": {"textures": ["textures/plushies/icons/dad3"]}
+    "heytiredimda_3": {"textures": ["textures/plushies/icons/dad3"]},
+    "jamie": {"textures": ["textures/plushies/icons/jamie"]},
+    "jamie_2": {"textures": ["textures/plushies/icons/jamie2"]},
+    "jamie_3": {"textures": ["textures/plushies/icons/jamie3"]},
+    "jamie_4": {"textures": ["textures/plushies/icons/jamie4"]}
   }
 }

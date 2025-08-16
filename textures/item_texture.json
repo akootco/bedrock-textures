@@ -352,6 +352,26 @@
         "textures/plushies/icons/dad3"
       ]
     },
+    "jamie": {
+      "textures": [
+        "textures/plushies/icons/jamie"
+      ]
+    },
+    "jamie_2": {
+      "textures": [
+        "textures/plushies/icons/jamie2"
+      ]
+    },
+    "jamie_3": {
+      "textures": [
+        "textures/plushies/icons/jamie3"
+      ]
+    },
+    "jamie_4": {
+      "textures": [
+        "textures/plushies/icons/jamie4"
+      ]
+    },
     "almonds": {
       "textures": [
         "textures/food/almonds"
