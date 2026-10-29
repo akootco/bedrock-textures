@@ -24,7 +24,7 @@
     },
     "bubbly": {
       "textures": [
-        "textures/plushies/icons/bubbly"
+        "textures/plushies/icons/bub"
       ]
     },
     "cow": {
@@ -159,7 +159,7 @@
     },
     "500am": {
       "textures": [
-        "textures/plushies/icons/500"
+        "textures/plushies/icons/500am"
       ]
     },
     "neoma": {
@@ -209,12 +209,12 @@
     },
     "madamducky": {
       "textures": [
-        "textures/plushies/icons/madamducky"
+        "textures/plushies/icons/ducky"
       ]
     },
     "madamducky_2": {
       "textures": [
-        "textures/plushies/icons/madamducky2"
+        "textures/plushies/icons/ducky2"
       ]
     },
     "mayzface": {
@@ -264,7 +264,7 @@
     },
     "yogdallas": {
       "textures": [
-        "textures/plushies/icons/yogdallas"
+        "textures/plushies/icons/yog"
       ]
     },
     "bee_2": {
@@ -294,7 +294,7 @@
     },
     "ecstardust": {
       "textures": [
-        "textures/plushies/icons/ecstardust"
+        "textures/plushies/icons/eddy"
       ]
     },
     "lamb": {
@@ -309,7 +309,7 @@
     },
     "gildedfolium": {
       "textures": [
-        "textures/plushies/icons/gildedfolium"
+        "textures/plushies/icons/gf"
       ]
     },
     "muffin": {
@@ -370,6 +370,131 @@
     "jamie_4": {
       "textures": [
         "textures/plushies/icons/jamie4"
+      ]
+    },
+    "exe": {
+      "textures": [
+        "textures/plushies/icons/exe"
+      ]
+    },
+    "teo_exe_": {
+      "textures": [
+        "textures/plushies/icons/teo_exe"
+      ]
+    },
+    "teo_exe_2": {
+      "textures": [
+        "textures/plushies/icons/teo_exe_2"
+      ]
+    },
+    "purple": {
+      "textures": [
+        "textures/plushies/icons/purple"
+      ]
+    },
+    "araecy": {
+      "textures": [
+        "textures/plushies/icons/araecy"
+      ]
+    },
+    "apollo": {
+      "textures": [
+        "textures/plushies/icons/bighealy"
+      ]
+    },
+    "g0ggl3": {
+      "textures": [
+        "textures/plushies/icons/g0ggl3"
+      ]
+    },
+    "theocheesecake": {
+      "textures": [
+        "textures/plushies/icons/theocheesecake"
+      ]
+    },
+    "bugbo": {
+      "textures": [
+        "textures/plushies/icons/bugbo"
+      ]
+    },
+    "realhakizen": {
+      "textures": [
+        "textures/plushies/icons/realhakizen"
+      ]
+    },
+    "gidget": {
+      "textures": [
+        "textures/plushies/icons/gidget"
+      ]
+    },
+    "blackberry_shades": {
+      "textures": [
+        "textures/plushies/icons/blackberry_shades"
+      ]
+    },
+    "blackberry_sweater": {
+      "textures": [
+        "textures/plushies/icons/blackberry_sweater"
+      ]
+    },
+    "blackberry_overalls": {
+      "textures": [
+        "textures/plushies/icons/blackberry_overalls"
+      ]
+    },
+    "papakirbo_shopkeeper": {
+      "textures": [
+        "textures/plushies/icons/papakirbo_shopkeeper"
+      ]
+    },
+    "maya_red": {
+      "textures": [
+        "textures/plushies/icons/maya_red"
+      ]
+    },
+    "maya_miku": {
+      "textures": [
+        "textures/plushies/icons/maya_miku"
+      ]
+    },
+    "rivtar": {
+      "textures": [
+        "textures/plushies/icons/rivtar"
+      ]
+    },
+    "hacktivision": {
+      "textures": [
+        "textures/plushies/icons/hacktivision"
+      ]
+    },
+    "lucky_cristi": {
+      "textures": [
+        "textures/plushies/icons/lucky_cristi"
+      ]
+    },
+    "danielwildchild": {
+      "textures": [
+        "textures/plushies/icons/danielwildchild"
+      ]
+    },
+    "melontania": {
+      "textures": [
+        "textures/plushies/icons/melontania"
+      ]
+    },
+    "melontania_2": {
+      "textures": [
+        "textures/plushies/icons/melontania2"
+      ]
+    },
+    "luminous0ryx": {
+      "textures": [
+        "textures/plushies/icons/luminous0ryx"
+      ]
+    },
+    "witchy": {
+      "textures": [
+        "textures/plushies/icons/witch_craft"
       ]
     },
     "almonds": {
@@ -472,7 +597,7 @@
         "textures/food/cheesecake_slice"
       ]
     },
-    "chef_knife": {
+    "butcher_knife": {
       "textures": [
         "textures/food/chef_knife"
       ]
@@ -505,11 +630,6 @@
     "chocolate_cake_slice": {
       "textures": [
         "textures/food/chocolate_cake_slice"
-      ]
-    },
-    "coffee_beans": {
-      "textures": [
-        "textures/food/coffee_beans"
       ]
     },
     "cooked_frog_leg": {
@@ -602,14 +722,14 @@
         "textures/food/garlic"
       ]
     },
-    "german_choc_cake": {
+    "german_chocolate_cake": {
       "textures": [
-        "textures/food/german_choc_cake"
+        "textures/food/german_chocolate_cake"
       ]
     },
-    "german_choc_cake_slice": {
+    "german_chocolate_cake_slice": {
       "textures": [
-        "textures/food/german_choc_cake_slice"
+        "textures/food/german_chocolate_cake_slice"
       ]
     },
     "glass_cup": {
@@ -627,7 +747,7 @@
         "textures/food/green_tea_leaves"
       ]
     },
-    "green_tea_mochi": {
+    "greentea_mochi": {
       "textures": [
         "textures/food/green_tea_mochi"
       ]
@@ -642,7 +762,7 @@
         "textures/food/hamburger"
       ]
     },
-    "hot_dog": {
+    "hotdog": {
       "textures": [
         "textures/food/hot_dog"
       ]
@@ -682,7 +802,7 @@
         "textures/food/lemon_cake_slice"
       ]
     },
-    "lemons": {
+    "lemons_fruit": {
       "textures": [
         "textures/food/lemons"
       ]
@@ -707,14 +827,14 @@
         "textures/food/loaded_baked_potato"
       ]
     },
-    "marshmallows": {
+    "marshmallow": {
       "textures": [
         "textures/food/marshmallows"
       ]
     },
-    "mm_cookies": {
+    "mm_cookie": {
       "textures": [
-        "textures/food/mm_cookies"
+        "textures/food/mm_cookie"
       ]
     },
     "mre": {
@@ -722,7 +842,7 @@
         "textures/food/mre"
       ]
     },
-    "mustard_hot_dog": {
+    "mustard_hotdog": {
       "textures": [
         "textures/food/mustard_hot_dog"
       ]
@@ -867,7 +987,7 @@
         "textures/food/sliced_bread"
       ]
     },
-    "squid_ink_pasta": {
+    "squid_pasta": {
       "textures": [
         "textures/food/squid_ink_pasta"
       ]
@@ -942,7 +1062,7 @@
         "textures/food/white_grapes"
       ]
     },
-    "yoyle_berry": {
+    "yoyleberry": {
       "textures": [
         "textures/food/yoyle_berry"
       ]
@@ -1000,6 +1120,101 @@
     "strawberry_pie": {
       "textures": [
         "textures/food/strawberry_pie"
+      ]
+    },
+    "corn": {
+      "textures": [
+        "textures/food/corn"
+      ]
+    },
+    "corn_tortilla": {
+      "textures": [
+        "textures/food/corn_tortilla"
+      ]
+    },
+    "chili_pepper": {
+      "textures": [
+        "textures/food/pepper"
+      ]
+    },
+    "taco_shell": {
+      "textures": [
+        "textures/food/taco_shell"
+      ]
+    },
+    "avocado": {
+      "textures": [
+        "textures/food/avocado"
+      ]
+    },
+    "coffee_beans_cooked": {
+      "textures": [
+        "textures/food/coffee_beans/cooked"
+      ]
+    },
+    "coffee_beans_roasted": {
+      "textures": [
+        "textures/food/coffee_beans/roasted"
+      ]
+    },
+    "coffee_beans_dark_roast": {
+      "textures": [
+        "textures/food/coffee_beans/dark_roast"
+      ]
+    },
+    "coffee_beans": {
+      "textures": [
+        "textures/food/coffee_beans/raw"
+      ]
+    },
+    "sugar_cube": {
+      "textures": [
+        "textures/food/sugar_cube"
+      ]
+    },
+    "bat_wing_cake_slice": {
+      "textures": [
+        "textures/food/bat_wing_cake_slice"
+      ]
+    },
+    "bat_wing_cake": {
+      "textures": [
+        "textures/food/bat_wing_cake"
+      ]
+    },
+    "shrimp": {
+      "textures": [
+        "textures/items/icons/shrimp"
+      ]
+    },
+    "krab": {
+      "textures": [
+        "textures/food/krab"
+      ]
+    },
+    "taco": {
+      "textures": [
+        "textures/food/taco"
+      ]
+    },
+    "cheese_wheel": {
+      "textures": [
+        "textures/food/cheese_wheel"
+      ]
+    },
+    "cheese_wheel_slice": {
+      "textures": [
+        "textures/food/cheese_slice"
+      ]
+    },
+    "cheese_cake": {
+      "textures": [
+        "textures/food/cheese_cake"
+      ]
+    },
+    "blackberries": {
+      "textures": [
+        "textures/food/blackberries"
       ]
     },
     "book.1": {
@@ -1387,11 +1602,6 @@
         "textures/items/icons/sneezy"
       ]
     },
-    "shrimp": {
-      "textures": [
-        "textures/items/icons/shrimp"
-      ]
-    },
     "kahoot": {
       "textures": [
         "textures/items/icons/kahoot"
@@ -1410,6 +1620,16 @@
     "limerence": {
       "textures": [
         "textures/items/icons/limerence"
+      ]
+    },
+    "leena": {
+      "textures": [
+        "textures/items/icons/leena"
+      ]
+    },
+    "timb": {
+      "textures": [
+        "textures/items/icons/timb"
       ]
     }
   }

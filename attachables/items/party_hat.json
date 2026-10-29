@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "geyser_custom:party_hat",
+            "identifier": "plushies:party_hat",
             "materials": {
                 "default": "entity_alphatest_one_sided",
                 "enchanted": "entity_alphatest_one_sided"
